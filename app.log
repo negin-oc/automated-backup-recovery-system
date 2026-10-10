@@ -1,0 +1,9 @@
+2026-10-10 23:26:23,475 - INFO - Backup created successfully: backup_2026-10-10_23-26-23.tar.gz
+2026-10-10 23:26:31,166 - ERROR - No backup files available for recovery!
+2026-10-10 23:30:23,023 - INFO - Backup created successfully: backup_2026-10-10_23-30-23.tar.gz
+2026-10-10 23:30:27,957 - ERROR - No backup files available for recovery in /home/neginghomi/backup_system/backups
+2026-10-10 23:34:06,953 - INFO - Backup created successfully: backup_2026-10-10_23-34-06.tar.gz
+2026-10-10 23:34:11,770 - INFO - Successfully restored from backup_2026-10-10_23-34-06.tar.gz
+2026-10-10 23:34:32,613 - INFO - Backup created successfully: backup_2026-10-10_23-34-32.tar.gz
+2026-10-10 23:34:37,303 - INFO - Successfully restored from backup_2026-10-10_23-26-23.tar.gz
+2026-10-10 23:34:42,924 - INFO - Successfully restored from backup_2026-10-10_23-10-40.tar.gz
