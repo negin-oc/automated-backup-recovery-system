@@ -1,0 +1,10 @@
+services:
+  backup-system:
+    build: .
+    volumes:
+      - ./backups:/app/backups
+      - ./data:/app/data
+      - ./restored_files:/app/restored_files
+      - ./logs:/app/logs
+    stdin_open: true
+    tty: true
